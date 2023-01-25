@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Koçak</h1>
+<h3>Hi 👋, I'm Mert Koçak</h3>
 - 🔭 I’m currently working on **Mobile and Web programming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mmertkocak/**
