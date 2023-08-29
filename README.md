@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Koçak</h1>
-- • I’m currently working on **Mobile and Web programming**
+- I’m currently working on **Mobile and Web programming**
 
-- • How to reach me **https://www.linkedin.com/in/mmertkocak/**
+- How to reach me **https://www.linkedin.com/in/mmertkocak/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
