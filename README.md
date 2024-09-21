@@ -1,5 +1,5 @@
 <h1 align="center">Mert Koçak</h1>
-•  Linkedin: **https://www.linkedin.com/in/mmertkocak/**
+•  Linkedin: **https://www.linkedin.com/in/mmertkocak**
 
 •  Portfolyo: **https://devfolio.co/@mertkocak**
 
