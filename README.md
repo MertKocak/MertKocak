@@ -1,6 +1,8 @@
 <h1 align="center">Mert Koçak</h1>
 •  Mobil ve Web Geliştirme
+
 •  Linkedin: **https://www.linkedin.com/in/mmertkocak/**
+
 •  Portfolyo: **https://devfolio.co/@mertkocak**
 
 <h3 align="left">Connect with me:</h3>
