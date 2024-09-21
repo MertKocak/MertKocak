@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mert Koçak</h1>
-•  I’m currently working on Mobile and Web programming
+<h1 align="center">Mert Koçak</h1>
+•  Mobil ve Web Geliştirme
 
-•  How to reach me **https://www.linkedin.com/in/mmertkocak/**
+•  Linkedin: **https://www.linkedin.com/in/mmertkocak/**
+•  Portfolyo: **https://devfolio.co/@mertkocak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
