@@ -1,4 +1,4 @@
-<h3 align="center">Mert Koçak</h3>
+# <h3 align="center">Mert Koçak</h3>
 
 - 👨‍💻 Portfolyo: [https://devfolio.co/@mertkocak](https://devfolio.co/@mertkocak)
 
