@@ -1,5 +1,5 @@
 <h3 align="center">Mert Koçak</h3>
------------------------------------------------------------------------------
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertkocak&label=Profile%20views&color=0e75b6&style=flat" alt="mertkocak" /> </p>
 
 - 👨‍💻 Portfolyo: [https://devfolio.co/@mertkocak](https://devfolio.co/@mertkocak)
