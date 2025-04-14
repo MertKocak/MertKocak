@@ -1,6 +1,6 @@
 # Mert Koçak
 
-• Portfolyo: [https://devfolio.co/@mertkocak](https://devfolio.co/@mertkocak)
+• Portfolyo: https://www.mertkocak.online
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
