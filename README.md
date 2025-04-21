@@ -1,6 +1,6 @@
 # Mert Koçak
 
-• Portfolyo: https://www.mertkocak.online
+Portfolyo: https://www.mertkocak.online
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
